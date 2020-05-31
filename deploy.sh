@@ -8,5 +8,7 @@ cd ~/django_demo
 
 pip3 install -r requirements.txt
 
+python3 titantic.py
+
 
 
